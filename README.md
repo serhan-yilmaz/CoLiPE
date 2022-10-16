@@ -20,6 +20,8 @@ demo_02_imbalance_analysis
 demo_02_separability_analysis
 ```
 
+If you are interested in performing this analysis through a user-friendly online interface, please visit [CoLiPE Web Application](https://yilmazs.shinyapps.io/colipe/) and [the sister github repository](https://github.com/serhan-yilmaz/ColipeApp/).
+
 ### View 3: Balanced evaluation to prevent under-studied entities from being under-represented
 This view measures the prediction performance of the algorithms on standard (unweighted, edge-uniform) and balanced (weighted, node-uniform) settings. To perform this analysis, please run: 
 ```
