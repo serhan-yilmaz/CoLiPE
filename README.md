@@ -2,7 +2,7 @@
 A framework for bias-aware evaluation of link prediction algorithms focusing on under-studied proteins. 
 
 ### Running the evaluation
-Please run the following script first to perform the evaluation of the link prediction algorithms:
+Please run the following script first to perform the evaluation of the link prediction algorithms (this can take around 15 minutes to run):
 ```
 demo_00_run_evaluation.m
 ```
